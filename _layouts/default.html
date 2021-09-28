@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="widget=device-width, initial-scale=1" />
+    <link rel="icon"       type="image/svg+xml" href="/favicon.svg" />
+    <link rel="stylesheet" type="text/css"      href="/style.css" />
+    <title>{{ page.title }} - {{ site.title }}</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+	<ul>
+	  <li><a href="/">Início</a></li>
+	  <li><a href="/sobre.html">Sobre</a></li>
+	</ul>
+      </nav>
+      <hr />
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <hr />
+      <p>
+	It's all about me, baby!
+      </p>
+    </footer>
+  </body>
+</html>

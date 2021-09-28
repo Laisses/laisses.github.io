@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title | escape }}</h1>
+  <time class="data-de-publicacao"
+	datetime="{{ page.date | date_to_xmlschema }}">
+    {% assign m = page.date | date: "%m" | minus: 1 %}
+    {{ page.date | date: "%d de " }}{{ site.months[m] }}{{ page.date | date: " de %Y" }}
+  </time>
+
+  {{ content }}
+
+</article>

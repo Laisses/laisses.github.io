@@ -1,0 +1,23 @@
+title: Ponto de Vista
+email: laisse+pdv@gmail.com
+description: >-
+  Blog de uma iniciante em programação, dando o meu ponto
+  de vista à medida que vou aprendendo.
+url: "https://laisses.github.io"
+lang: "pt"
+
+excerpt_separator: <!--more-->
+
+months:
+  - Janeiro
+  - Fevereiro
+  - Março
+  - Abril
+  - Maio
+  - Junho
+  - Julho
+  - Agosto
+  - Setembro
+  - Outubro
+  - Novembro
+  - Dezembro

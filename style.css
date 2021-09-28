@@ -1,0 +1,13 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.lista-de-artigos {
+  list-style-type: none;
+}
+
+.data-de-publicacao {
+  color: #555;
+  font-style: italic;
+}
