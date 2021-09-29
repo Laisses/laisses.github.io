@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  '"Efeito colateral" e "funções puras" podem não ser o melhor nome'
-date:   2021-09-28
+date:   2021-09-29
 ---
 
 Eu sou uma nova programadora. Eu comecei a estudar há sete meses e desde o começo do meu aprendizado, que foi e é em JavaScript, a semente da programação funcional foi plantada no meu coração.
