@@ -28,6 +28,13 @@ Pense no seguinte cenário: Uma pessoa decide investir no mercado imobiliário e
 
 No fim das contas, seja na casa do exemplo acima ou na nossa aplicação, os problemas estruturais são nossa responsabilidade. Quando se escolhe se usa ou não essa biblioteca ou aquela ferramenta, deve-se pensar também no potencial trabalho que essa escolha pode gerar versus os benefícios. Esse é o custo.
 
+## Referências
+
+1. [`moment().endOf('term')`][moment]
+2. [What you need to know about burnout in open source communities - Why is burnout so prevalent in open source communities, and what can we do about it?][burnout]
+3. [Leaving Toxic Open Source Communities - Exploring the cultural shame of leaving and tips for finding healthy communities.][ambiente-toxico]
+4. [Stress and Burnout in Open Source: Toward Finding, Understanding, and Mitigating Unhealthy Interactions][pesquisa]
+
 [moment]: https://medium.com/@timrwood/moment-endof-term-522d8965689
 [burnout]: https://opensource.com/article/19/11/burnout-open-source-communities
 [ambiente-toxico]: https://modelviewculture.com/pieces/leaving-toxic-open-source-communities
