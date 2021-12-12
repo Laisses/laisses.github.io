@@ -1,6 +1,12 @@
-Tu te tornas eternamente responsável pela biblioteca que instalas
+---
+layout: post
+title: Tu te tornas eternamente responsável pela biblioteca que instalas
+date: 2021-12-12
+---
 
 Ontem eu finalizei mais um curso da minha formação. Nesse projeto diversas bibliotecas foram instaladas para "facilitar a nossa vida", com direito a posts sobre as vantagens e links para bibliotecas famosas. Mas o que eu queria saber é: e qual é o custo?
+
+<!--more-->
 
 Essa questão me incomoda desde a primeira vez que eu usei o Bootstrap em um curso de front-end. Não há dúvida de que essa é uma ferramenta muito útil e versátil, mas ela é necessária para uma estilização simples? Bem... não. Talvez valha a pena se familiarizar e aprender a usar porque nunca se sabe o que vamos encontrar pela frente, mas usar essa biblioteca quando o objetivo é justamente aprender HTML e CSS me soa como oportunidade perdida.
 
