@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <path d="M 0  8  L 1  8  L 1  9  L 0  9  Z" />
+  <path d="M 0  13 L 1  13 L 1  14 L 0  14 Z" />
+  <path d="M 1  8  L 2  8  L 2  9  L 1  9  Z" />
+  <path d="M 1  13 L 2  13 L 2  14 L 1  14 Z" />
+  <path d="M 2  8  L 3  8  L 3  9  L 2  9  Z" />
+  <path d="M 2  13 L 3  13 L 3  14 L 2  14 Z" />
+  <path d="M 3  8  L 4  8  L 4  9  L 3  9  Z" />
+  <path d="M 3  13 L 4  13 L 4  14 L 3  14 Z" />
+  <path d="M 4  7  L 5  7  L 5  8  L 4  8  Z" />
+  <path d="M 4  13 L 5  13 L 5  14 L 4  14 Z" />
+  <path d="M 5  6  L 6  6  L 6  7  L 5  7  Z" />
+  <path d="M 5  7  L 6  7  L 6  8  L 5  8  Z" />
+  <path d="M 5  13 L 6  13 L 6  14 L 5  14 Z" />
+  <path d="M 6  5  L 7  5  L 7  6  L 6  6  Z" />
+  <path d="M 6  6  L 7  6  L 7  7  L 6  7  Z" />
+  <path d="M 6  14 L 7  14 L 7  15 L 6  15 Z" />
+  <path d="M 7  1  L 8  1  L 8  2  L 7  2  Z" />
+  <path d="M 7  14 L 8  14 L 8  15 L 7  15 Z" />
+  <path d="M 7  15 L 8  15 L 8  16 L 7  16 Z" />
+  <path d="M 7  2  L 8  2  L 8  3  L 7  3  Z" />
+  <path d="M 7  3  L 8  3  L 8  4  L 7  4  Z" />
+  <path d="M 7  4  L 8  4  L 8  5  L 7  5  Z" />
+  <path d="M 7  5  L 8  5  L 8  6  L 7  6  Z" />
+  <path d="M 8  1  L 9  1  L 9  2  L 8  2  Z" />
+  <path d="M 8  15 L 9  15 L 9  16 L 8  16 Z" />
+  <path d="M 9  1  L 10 1  L 10 2  L 9  2  Z" />
+  <path d="M 9  2  L 10 2  L 10 3  L 9  3  Z" />
+  <path d="M 9  6  L 10 6  L 10 7  L 9  7  Z" />
+  <path d="M 9  15 L 10 15 L 10 16 L 9  16 Z" />
+  <path d="M 10 2  L 11 2  L 11 3  L 10 3  Z" />
+  <path d="M 10 3  L 11 3  L 11 4  L 10 4  Z" />
+  <path d="M 10 4  L 11 4  L 11 5  L 10 5  Z" />
+  <path d="M 10 5  L 11 5  L 11 6  L 10 6  Z" />
+  <path d="M 10 6  L 11 6  L 11 7  L 10 7  Z" />
+  <path d="M 11 6  L 12 6  L 12 7  L 11 7  Z" />
+  <path d="M 11 8  L 12 8  L 12 9  L 11 9  Z" />
+  <path d="M 10 15 L 11 15 L 11 16 L 10 16 Z" />
+  <path d="M 11 10 L 12 10 L 12 11 L 11 11 Z" />
+  <path d="M 11 12 L 12 12 L 12 13 L 11 13 Z" />
+  <path d="M 11 14 L 12 14 L 12 15 L 11 15 Z" />
+  <path d="M 11 15 L 12 15 L 12 16 L 11 16 Z" />
+  <path d="M 12 6  L 13 6  L 13 7  L 12 7  Z" />
+  <path d="M 12 8  L 13 8  L 13 9  L 12 9  Z" />
+  <path d="M 12 10 L 13 10 L 13 11 L 12 11 Z" />
+  <path d="M 12 12 L 13 12 L 13 13 L 12 13 Z" />
+  <path d="M 12 14 L 13 14 L 13 15 L 12 15 Z" />
+  <path d="M 13 6  L 14 6  L 14 7  L 13 7  Z" />
+  <path d="M 13 8  L 14 8  L 14 9  L 13 9  Z" />
+  <path d="M 13 10 L 14 10 L 14 11 L 13 11 Z" />
+  <path d="M 13 12 L 14 12 L 14 13 L 13 13 Z" />
+  <path d="M 13 13 L 14 13 L 14 14 L 13 14 Z" />
+  <path d="M 13 14 L 14 14 L 14 15 L 13 15 Z" />
+  <path d="M 14 7  L 15 7  L 15 8  L 14 8  Z" />
+  <path d="M 14 8  L 15 8  L 15 9  L 14 9  Z" />
+  <path d="M 14 9  L 15 9  L 15 10 L 14 10 Z" />
+  <path d="M 14 10 L 15 10 L 15 11 L 14 11 Z" />
+  <path d="M 14 11 L 15 11 L 15 12 L 14 12 Z" />
+  <path d="M 14 12 L 15 12 L 15 13 L 14 13 Z" />
+
+
+  <path d="M 5  10 L 6  10 L 6  11 L 5  11 Z" fill="green" />
+  <path d="M 5  9  L 6  9  L 6  10 L 5  10 Z" fill="green" />
+  <path d="M 4  9  L 5  9  L 5  10 L 4  10 Z" fill="green" />
+  <path d="M 4  8  L 5  8  L 5  9  L 4  9  Z" fill="green" />
+  <path d="M 3  7  L 4  7  L 4  8  L 3  8  Z" fill="green" />
+  <path d="M 3  6  L 4  6  L 4  7  L 3  7  Z" fill="green" />
+  <path d="M 3  5  L 4  5  L 4  6  L 3  6  Z" fill="green" />
+  <path d="M 3  4  L 4  4  L 4  5  L 3  5  Z" fill="green" />
+
+  <path d="M 3  3  L 4  3  L 4  4  L 3  4  Z" fill="gold" />
+  <path d="M 3  2  L 4  2  L 4  3  L 3  3  Z" fill="gold" />
+  <path d="M 2  3  L 3  3  L 3  4  L 2  4  Z" fill="gold" />
+  <path d="M 2  2  L 3  2  L 3  3  L 2  3  Z" fill="gold" />
+
+
+  <path d="M 0  0  L 1  0  L 1  1  L 0  1  Z" fill="deeppink" />
+  <path d="M 1  0  L 2  0  L 2  1  L 1  1  Z" fill="deeppink" />
+  <path d="M 0  1  L 1  1  L 1  2  L 0  2  Z" fill="deeppink" />
+  <path d="M 1  1  L 2  1  L 2  2  L 1  2  Z" fill="deeppink" />
+  <path d="M 2  1  L 3  1  L 3  2  L 2  2  Z" fill="deeppink" />
+  <path d="M 1  2  L 2  2  L 2  3  L 1  3  Z" fill="deeppink" />
+
+  <path d="M 4  0  L 5  0  L 5  1  L 4  1  Z" fill="deeppink" />
+  <path d="M 5  0  L 6  0  L 6  1  L 5  1  Z" fill="deeppink" />
+  <path d="M 4  1  L 5  1  L 5  2  L 4  2  Z" fill="deeppink" />
+  <path d="M 5  1  L 6  1  L 6  2  L 5  2  Z" fill="deeppink" />
+  <path d="M 4  2  L 5  2  L 5  3  L 4  3  Z" fill="deeppink" />
+
+  <path d="M 0  4  L 1  4  L 1  5  L 0  5  Z" fill="deeppink" />
+  <path d="M 0  5  L 1  5  L 1  6  L 0  6  Z" fill="deeppink" />
+  <path d="M 0  6  L 1  6  L 1  7  L 0  7  Z" fill="deeppink" />
+  <path d="M 1  4  L 2  4  L 2  5  L 1  5  Z" fill="deeppink" />
+  <path d="M 1  5  L 2  5  L 2  6  L 1  6  Z" fill="deeppink" />
+  <path d="M 2  4  L 3  4  L 3  5  L 2  5  Z" fill="deeppink" />
+  <path d="M 2  5  L 3  5  L 3  6  L 2  6  Z" fill="deeppink" />
+  <path d="M 4  4  L 5  4  L 5  5  L 4  5  Z" fill="deeppink" />
+  <path d="M 4  5  L 5  5  L 5  6  L 4  6  Z" fill="deeppink" />
+  <path d="M 5  4  L 6  4  L 6  5  L 5  5  Z" fill="deeppink" />
+  <path d="M 5  5  L 6  5  L 6  6  L 5  6  Z" fill="deeppink" />
+</svg>
