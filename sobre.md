@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Sobre
+title: Quem sou eu?
 ---
 
 > Eu não sou o que aconteceu comigo, eu sou o que eu escolhi me tornar.
 >
 >  -- <cite>Provavelmente por Carl Jung</cite>
-
-Quem sou eu?
-============
 
 Programadora
 ------------
